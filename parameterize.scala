@@ -23,3 +23,7 @@ println()
  *
  * for (1 <- (1).to(2))
  *  print(greetings.apply(i))*/
+
+// Another implementation
+// val greetings = Array("zero", "one", "two")
+// More verbose way of doing this is ----- val greetings = Array.apply("zero", "one", "two")
